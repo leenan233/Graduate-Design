@@ -1,0 +1,105 @@
+WARNING: D:\实验程序\crawlPatent\crawlpat\spiders\pat_spider.py:2: ScrapyDeprecationWarning: Module `scrapy.spider` is deprecated, use `scrapy.spiders` instead
+  from scrapy.spider import CrawlSpider,Rule
+
+INFO: start
+INFO: Scrapy 1.0.5 started (bot: crawlpat)
+INFO: Optional features available: ssl, http11
+INFO: Overridden settings: {'NEWSPIDER_MODULE': 'crawlpat.spiders', 'SPIDER_MODULES': ['crawlpat.spiders'], 'BOT_NAME': 'crawlpat'}
+INFO: Enabled extensions: CloseSpider, TelnetConsole, LogStats, CoreStats, SpiderState
+INFO: Enabled downloader middlewares: HttpAuthMiddleware, DownloadTimeoutMiddleware, UserAgentMiddleware, RetryMiddleware, DefaultHeadersMiddleware, MetaRefreshMiddleware, HttpCompressionMiddleware, RedirectMiddleware, CookiesMiddleware, ChunkedTransferMiddleware, DownloaderStats
+INFO: Enabled spider middlewares: HttpErrorMiddleware, OffsiteMiddleware, RefererMiddleware, UrlLengthMiddleware, DepthMiddleware
+CRITICAL: Unhandled error in Deferred:
+CRITICAL: Unhandled error in Deferred:
+CRITICAL: 
+CRITICAL: 
+WARNING: D:\实验程序\crawlPatent\crawlpat\spiders\pat_spider.py:2: ScrapyDeprecationWarning: Module `scrapy.spider` is deprecated, use `scrapy.spiders` instead
+  from scrapy.spider import CrawlSpider,Rule
+
+INFO: start
+INFO: Scrapy 1.0.5 started (bot: crawlpat)
+INFO: Optional features available: ssl, http11
+INFO: Overridden settings: {'NEWSPIDER_MODULE': 'crawlpat.spiders', 'SPIDER_MODULES': ['crawlpat.spiders'], 'BOT_NAME': 'crawlpat'}
+WARNING: D:\实验程序\crawlPatent\crawlpat\spiders\pat_spider.py:2: ScrapyDeprecationWarning: Module `scrapy.spider` is deprecated, use `scrapy.spiders` instead
+  from scrapy.spider import CrawlSpider,Rule
+
+INFO: start
+INFO: Scrapy 1.0.5 started (bot: crawlpat)
+INFO: Optional features available: ssl, http11
+INFO: Overridden settings: {'NEWSPIDER_MODULE': 'crawlpat.spiders', 'SPIDER_MODULES': ['crawlpat.spiders'], 'BOT_NAME': 'crawlpat'}
+WARNING: D:\实验程序\crawlPatent\crawlpat\spiders\pat_spider.py:2: ScrapyDeprecationWarning: Module `scrapy.spider` is deprecated, use `scrapy.spiders` instead
+  from scrapy.spider import CrawlSpider,Rule
+
+INFO: start
+INFO: Scrapy 1.0.5 started (bot: crawlpat)
+INFO: Optional features available: ssl, http11
+INFO: Overridden settings: {'NEWSPIDER_MODULE': 'crawlpat.spiders', 'SPIDER_MODULES': ['crawlpat.spiders'], 'BOT_NAME': 'crawlpat'}
+INFO: Enabled extensions: CloseSpider, TelnetConsole, LogStats, CoreStats, SpiderState
+INFO: Enabled downloader middlewares: HttpAuthMiddleware, DownloadTimeoutMiddleware, UserAgentMiddleware, RetryMiddleware, DefaultHeadersMiddleware, MetaRefreshMiddleware, HttpCompressionMiddleware, RedirectMiddleware, CookiesMiddleware, ChunkedTransferMiddleware, DownloaderStats
+INFO: Enabled spider middlewares: HttpErrorMiddleware, OffsiteMiddleware, RefererMiddleware, UrlLengthMiddleware, DepthMiddleware
+CRITICAL: Unhandled error in Deferred:
+CRITICAL: Unhandled error in Deferred:
+CRITICAL: 
+CRITICAL: 
+WARNING: D:\实验程序\crawlPatent\crawlpat\spiders\pat_spider.py:2: ScrapyDeprecationWarning: Module `scrapy.spider` is deprecated, use `scrapy.spiders` instead
+  from scrapy.spider import CrawlSpider,Rule
+
+INFO: start
+INFO: Scrapy 1.0.5 started (bot: crawlpat)
+INFO: Optional features available: ssl, http11
+INFO: Overridden settings: {'NEWSPIDER_MODULE': 'crawlpat.spiders', 'SPIDER_MODULES': ['crawlpat.spiders'], 'BOT_NAME': 'crawlpat'}
+WARNING: D:\实验程序\crawlPatent\crawlpat\spiders\pat_spider.py:2: ScrapyDeprecationWarning: Module `scrapy.spider` is deprecated, use `scrapy.spiders` instead
+  from scrapy.spider import CrawlSpider,Rule
+
+INFO: start
+INFO: Scrapy 1.0.5 started (bot: crawlpat)
+INFO: Optional features available: ssl, http11
+INFO: Overridden settings: {'NEWSPIDER_MODULE': 'crawlpat.spiders', 'SPIDER_MODULES': ['crawlpat.spiders'], 'BOT_NAME': 'crawlpat'}
+INFO: Enabled extensions: CloseSpider, TelnetConsole, LogStats, CoreStats, SpiderState
+INFO: Enabled downloader middlewares: HttpAuthMiddleware, DownloadTimeoutMiddleware, UserAgentMiddleware, RetryMiddleware, DefaultHeadersMiddleware, MetaRefreshMiddleware, HttpCompressionMiddleware, RedirectMiddleware, CookiesMiddleware, ChunkedTransferMiddleware, DownloaderStats
+INFO: Enabled spider middlewares: HttpErrorMiddleware, OffsiteMiddleware, RefererMiddleware, UrlLengthMiddleware, DepthMiddleware
+CRITICAL: Unhandled error in Deferred:
+CRITICAL: Unhandled error in Deferred:
+CRITICAL: 
+CRITICAL: 
+WARNING: G:\实验程序\crawlPatent\crawlpat\spiders\pat_spider.py:2: ScrapyDeprecationWarning: Module `scrapy.spider` is deprecated, use `scrapy.spiders` instead
+  from scrapy.spider import CrawlSpider,Rule
+
+INFO: start
+INFO: Scrapy 1.0.5 started (bot: crawlpat)
+INFO: Optional features available: ssl, http11
+INFO: Overridden settings: {'NEWSPIDER_MODULE': 'crawlpat.spiders', 'SPIDER_MODULES': ['crawlpat.spiders'], 'BOT_NAME': 'crawlpat'}
+INFO: Enabled extensions: CloseSpider, TelnetConsole, LogStats, CoreStats, SpiderState
+INFO: Enabled downloader middlewares: HttpAuthMiddleware, DownloadTimeoutMiddleware, UserAgentMiddleware, RetryMiddleware, DefaultHeadersMiddleware, MetaRefreshMiddleware, HttpCompressionMiddleware, RedirectMiddleware, CookiesMiddleware, ChunkedTransferMiddleware, DownloaderStats
+INFO: Enabled spider middlewares: HttpErrorMiddleware, OffsiteMiddleware, RefererMiddleware, UrlLengthMiddleware, DepthMiddleware
+CRITICAL: Unhandled error in Deferred:
+CRITICAL: Unhandled error in Deferred:
+CRITICAL: 
+CRITICAL: 
+WARNING: G:\实验程序\crawlPatent\crawlpat\spiders\pat_spider.py:2: ScrapyDeprecationWarning: Module `scrapy.spider` is deprecated, use `scrapy.spiders` instead
+  from scrapy.spider import CrawlSpider,Rule
+
+INFO: start
+INFO: Scrapy 1.0.5 started (bot: crawlpat)
+INFO: Optional features available: ssl, http11
+INFO: Overridden settings: {'NEWSPIDER_MODULE': 'crawlpat.spiders', 'FEED_FORMAT': 'json', 'SPIDER_MODULES': ['crawlpat.spiders'], 'FEED_URI': 'items.json', 'BOT_NAME': 'crawlpat'}
+INFO: Enabled extensions: CloseSpider, FeedExporter, TelnetConsole, LogStats, CoreStats, SpiderState
+INFO: Enabled downloader middlewares: HttpAuthMiddleware, DownloadTimeoutMiddleware, UserAgentMiddleware, RetryMiddleware, DefaultHeadersMiddleware, MetaRefreshMiddleware, HttpCompressionMiddleware, RedirectMiddleware, CookiesMiddleware, ChunkedTransferMiddleware, DownloaderStats
+INFO: Enabled spider middlewares: HttpErrorMiddleware, OffsiteMiddleware, RefererMiddleware, UrlLengthMiddleware, DepthMiddleware
+CRITICAL: Unhandled error in Deferred:
+CRITICAL: Unhandled error in Deferred:
+CRITICAL: 
+CRITICAL: 
+WARNING: C:\Users\Leenan\Desktop\crawlPatent\crawlpat\spiders\pat_spider.py:2: ScrapyDeprecationWarning: Module `scrapy.spider` is deprecated, use `scrapy.spiders` instead
+  from scrapy.spider import CrawlSpider,Rule
+
+INFO: start
+INFO: Scrapy 1.0.5 started (bot: crawlpat)
+INFO: Optional features available: ssl, http11
+INFO: Overridden settings: {'NEWSPIDER_MODULE': 'crawlpat.spiders', 'SPIDER_MODULES': ['crawlpat.spiders'], 'BOT_NAME': 'crawlpat'}
+INFO: Enabled extensions: CloseSpider, TelnetConsole, LogStats, CoreStats, SpiderState
+INFO: Enabled downloader middlewares: HttpAuthMiddleware, DownloadTimeoutMiddleware, UserAgentMiddleware, RetryMiddleware, DefaultHeadersMiddleware, MetaRefreshMiddleware, HttpCompressionMiddleware, RedirectMiddleware, CookiesMiddleware, ChunkedTransferMiddleware, DownloaderStats
+INFO: Enabled spider middlewares: HttpErrorMiddleware, OffsiteMiddleware, RefererMiddleware, UrlLengthMiddleware, DepthMiddleware
+CRITICAL: Unhandled error in Deferred:
+CRITICAL: Unhandled error in Deferred:
+CRITICAL: 
+CRITICAL: 
